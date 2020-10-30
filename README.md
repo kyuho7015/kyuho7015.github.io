@@ -14,6 +14,10 @@
 - @애노테이션=지시자
 - 16진수(아래)
 - 0~9 A~F 
+- 대괄호[배열],중괄호{구현내용},소괄호(매개변수)
+- media all => screen + print +...
+- inherit:상속 (extends)
+
 #### 20201029(목)
 - 햄버거메뉴:.opneMOgnb ->gnb(global navigation) 글로벌 네비게이션(전체 메뉴)
 Ps. Page navigation (페이징 링크처리)
