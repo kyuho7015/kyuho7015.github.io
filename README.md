@@ -7,7 +7,22 @@
 #### 20201103(화) 작업예정
 - 게시판리스트 : 모바일용 작업
 - 모바일용 -> 태블릿용 -> PC용
-
+- <form>태그 속성2가지중요
+- action 속성:데이터전송 위치
+- method 속성:데이터전송방법(아래)
+- get(비보안-데이터노출),
+- post(보안-데이터숨김)
+- get(기본):검색방식
+- post(지정):등록홈에서 사용.
+- 유효성검사:예전에는 자바스크립트 처리
+- 유효성검사:현재는 html5속성으로 처리.
+- table th(table header),
+- td(table data)
+- tr(tavle row 가로줄)
+- vertical(수직-세로): top,middle,bottom
+- horizontal(수평-가로): left,center,right
+- css값에 대한 수정:padding(40 0 0)
+- 40px(위), 0(좌우), 0(아래)
 #### 부트스트랩4.x버전
 - j쿼리기반 자바스크립트 프레임워크
 - 프레임워크:라이브러리를 구조화시킨것
