@@ -9,6 +9,7 @@
 - 테이블 display:none -> table-cell
 - placeholder:-ms-input-plceholder 속성
 - 메인페이지 로고와 슬라이드 (모바일용/PC용) 이미지교체
+- 로그인 페이지,회원가입 페이지, 마이페이지 작업예정
 
 #### 20201103(화) 
 - 시만텍 웹: 의미있는 태그사용 == html5사용
