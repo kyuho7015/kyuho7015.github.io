@@ -5,8 +5,9 @@
 - 기존 PC용 > 태블릿용 > 모바일용 CSS작업순서를 [모바일용 > 태블릿용 > PC용] 으로 변경작업
 
 #### 20201104(수)
-- 테이블 display:none->block
-- 테이블 display:none ->table-cell
+- 테이블 display:none -> block
+- 테이블 display:none -> table-cell
+- 메인페이지 로고와 슬라이드 (모바일용/PC용) 이미지교체
 
 #### 20201103(화) 
 - 시만텍 웹: 의미있는 태그사용 == html5사용
