@@ -178,16 +178,10 @@ header {
 	padding-bottom: 30px;
 }
 /* PC용 슬라이드영역은 숨김처리 */
-.main_rolling_pc {
-	display: none;
-}
+.main_rolling_pc {display: none;}
 /* 모바일슬라이드영역 */
-.main_rolling_mobile {
-	display:block;
-}
-.swiper-slide img {
-	height: 250px;
-}
+.main_rolling_mobile {display:block;}
+.swiper-slide img {height: 250px;}
 .swiper-pagination-bullet {
 	width: 5px !important; height: 5px !important;
 	margin: 0 3px !important;
